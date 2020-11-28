@@ -1,6 +1,6 @@
 ## AlgoExpert
 
-This is a repository where to find python solutions to different algorythms.
+This is a repository where to find python solutions to different algorithms.
 
 EASY:
 * Depth Firts Search
